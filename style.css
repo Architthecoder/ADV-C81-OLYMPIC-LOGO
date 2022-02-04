@@ -4,3 +4,7 @@
     border-color: red;
     background-color: white;
 }
+
+body{
+    background-image: url(bg1.jpg);
+}
